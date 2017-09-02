@@ -1,5 +1,14 @@
+.DS_Store
+
 # Compiled class file
 *.class
+*.jrtc
+*.info
+*.iml
+*.png
+*.properties
+/.idea/
+/out/
 
 # Log file
 *.log
