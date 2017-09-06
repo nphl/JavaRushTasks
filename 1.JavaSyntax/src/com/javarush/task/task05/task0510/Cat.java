@@ -39,7 +39,8 @@ public class Cat {
         this.color = "white";
     }
 
-    private void initialize(String name, int age) {
+    // из-за private код не принимался
+    public void initialize(String name, int age) {
         this.name = name;
         this.age = age;
         this.weight = 5;
