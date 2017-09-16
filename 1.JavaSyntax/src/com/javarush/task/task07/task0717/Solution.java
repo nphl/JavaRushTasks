@@ -17,7 +17,7 @@ public class Solution {
             list.add(reader.readLine());
         }
         reader.close();
-        
+
         ArrayList<String> result = doubleValues(list);
 
         for (String s : result) {
